@@ -1,4 +1,3 @@
-
 import { Detection, OceanHotspot, PollutionStatistics } from "../types";
 
 export const mockDetections: Detection[] = [

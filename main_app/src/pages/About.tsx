@@ -97,7 +97,7 @@ const About = () => {
                     <span>{item}</span>
                   </div>
                 ))}
-              </div>
+              </div> 
             </div>
             
             <div className="animated-border rounded-xl overflow-hidden">

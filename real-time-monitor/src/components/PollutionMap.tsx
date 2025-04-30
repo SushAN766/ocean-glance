@@ -7,7 +7,7 @@ import { Minus, Plus } from 'lucide-react';
 
 /// <reference types="@googlemaps/js-api-loader" />
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyDDYP9U73l8X1PjXtNPMlsv_gWiPxX744Y';
+const GOOGLE_MAPS_API_KEY = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
 
 const getMarkerColor = (level: PollutionLevel): string => {
   switch (level) {
