@@ -11,7 +11,7 @@ An AI-powered underwater trash detection application that uses advanced computer
 ![Video Processing Panel](./assets/screenshots/ocean.png)
 
 ### Analytics 
-![Analytics](./screenshots/analytics.png)
+![Analytics](./assets/screenshots/analytics.png)
 
 ## Features
 
