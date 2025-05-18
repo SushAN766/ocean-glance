@@ -1,4 +1,4 @@
-# Sea Trash Detection System
+# AI-Powered Vision for Underwater Waste Detection.
 
 An AI-powered underwater trash detection application that uses advanced computer vision to identify marine debris in images and videos. The system includes a modern React frontend and Python FastAPI backend.
 
