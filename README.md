@@ -2,7 +2,7 @@
 
 An AI-powered underwater trash detection application that uses advanced computer vision to identify marine debris in images and videos. The system includes a modern React frontend and Python FastAPI backend.
 
-## 🖼 Screenshots
+## Screenshots
 
 ### HomePage
 ![Image Detection UI](./assets/screenshots/ui.png)
